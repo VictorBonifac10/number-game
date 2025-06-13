@@ -103,10 +103,11 @@ main {
 .number {
     border: 0.5px solid rgb(63, 81, 181);
     border-radius: 50px;
-    padding: 7px 50px 7px 50px;
     text-align: center;
     font-size: 30px;
     margin-bottom: 10px;
+    width: 100px;
+    height: 50px;
 }
 
 #buttons {
