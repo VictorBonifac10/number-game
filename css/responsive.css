@@ -1,0 +1,41 @@
+
+@media screen and (max-width: 853px){
+
+    .link-header {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 642px){
+
+    main {
+        display: block;
+        margin: 0 auto;
+    }
+
+    #lorem {
+        display: none;
+    }
+
+    .button-link{
+        display: none;
+    }
+
+    #number-box {
+        width: 150px;
+        margin-left: 180px;
+        margin-bottom: 20px;
+    }
+
+    #content-two {
+        display: block;
+        margin: 0 auto;
+}
+
+    #notification {
+        margin: 0 auto;
+    }
+
+
+}
